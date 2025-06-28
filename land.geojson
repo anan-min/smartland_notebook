@@ -1,0 +1,547 @@
+{
+  "type": "FeatureCollection",
+  "spatialReference": {
+    "wkid": 24047,
+    "latestWkid": 24047
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Plot A1",
+        "area_sqm": 800,
+        "area_rai": 0.5,
+        "price_thb": 45000000,
+        "price_per_sqm": 56250,
+        "district": "Central District",
+        "land_type": "Commercial",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667135.77, 1520498.74],
+            [667405.92, 1520522.6],
+            [667350.22, 1520776.63],
+            [667188.55, 1520698.17],
+            [667135.77, 1520498.74]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "name": "Plot A2",
+        "area_sqm": 1200,
+        "area_rai": 0.75,
+        "price_thb": 72000000,
+        "price_per_sqm": 60000,
+        "district": "Central District",
+        "land_type": "Commercial",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667405.92, 1520522.6],
+            [667730.55, 1520480.45],
+            [667761.2, 1520757.16],
+            [667458.19, 1520799.45],
+            [667350.22, 1520776.63],
+            [667405.92, 1520522.6]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "name": "Plot A3",
+        "area_sqm": 600,
+        "area_rai": 0.375,
+        "price_thb": 18000000,
+        "price_per_sqm": 30000,
+        "district": "Central District",
+        "land_type": "Residential",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667730.55, 1520480.45],
+            [667946.28, 1520559.26],
+            [667891.01, 1520746.94],
+            [667761.2, 1520757.16],
+            [667730.55, 1520480.45]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "name": "Plot A4",
+        "area_sqm": 1000,
+        "area_rai": 0.625,
+        "price_thb": 55000000,
+        "price_per_sqm": 55000,
+        "district": "Central District",
+        "land_type": "Mixed-use",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667946.28, 1520559.26],
+            [668195.23, 1520516.63],
+            [668161.44, 1520726.57],
+            [667977.28, 1520780.68],
+            [667891.01, 1520746.94],
+            [667946.28, 1520559.26]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "name": "Plot B1",
+        "area_sqm": 500,
+        "area_rai": 0.3125,
+        "price_thb": 12500000,
+        "price_per_sqm": 25000,
+        "district": "Central District",
+        "land_type": "Residential",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667188.55, 1520698.17],
+            [667350.22, 1520776.63],
+            [667294.74, 1520997.49],
+            [667154.55, 1520941.28],
+            [667188.55, 1520698.17]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "name": "Plot B2",
+        "area_sqm": 750,
+        "area_rai": 0.46875,
+        "price_thb": 26250000,
+        "price_per_sqm": 35000,
+        "district": "Central District",
+        "land_type": "Commercial",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667350.22, 1520776.63],
+            [667458.19, 1520799.45],
+            [667651.87, 1520944.49],
+            [667510.75, 1521032.06],
+            [667294.74, 1520997.49],
+            [667350.22, 1520776.63]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "name": "Plot B3",
+        "area_sqm": 900,
+        "area_rai": 0.5625,
+        "price_thb": 54000000,
+        "price_per_sqm": 60000,
+        "district": "Central District",
+        "land_type": "Commercial",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667458.19, 1520799.45],
+            [667761.2, 1520757.16],
+            [667835.52, 1520967.79],
+            [667651.87, 1520944.49],
+            [667458.19, 1520799.45]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "name": "Plot B4",
+        "area_sqm": 400,
+        "area_rai": 0.25,
+        "price_thb": 10000000,
+        "price_per_sqm": 25000,
+        "district": "Central District",
+        "land_type": "Residential",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667761.2, 1520757.16],
+            [667891.01, 1520746.94],
+            [667977.28, 1520780.68],
+            [667997.83, 1520946.72],
+            [667835.52, 1520967.79],
+            [667761.2, 1520757.16]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "name": "Plot C1",
+        "area_sqm": 1100,
+        "area_rai": 0.6875,
+        "price_thb": 66000000,
+        "price_per_sqm": 60000,
+        "district": "Central District",
+        "land_type": "Mixed-use",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667154.55, 1520941.28],
+            [667294.74, 1520997.49],
+            [667368.99, 1521219.18],
+            [667185.42, 1521184.81],
+            [667154.55, 1520941.28]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "name": "Plot C2",
+        "area_sqm": 1500,
+        "area_rai": 0.9375,
+        "price_thb": 37500000,
+        "price_per_sqm": 25000,
+        "district": "Central District",
+        "land_type": "Industrial",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667294.74, 1520997.49],
+            [667510.75, 1521032.06],
+            [667617.44, 1521253.96],
+            [667433.5, 1521274.9],
+            [667368.99, 1521219.18],
+            [667294.74, 1520997.49]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "name": "Plot C3",
+        "area_sqm": 650,
+        "area_rai": 0.40625,
+        "price_thb": 42250000,
+        "price_per_sqm": 65000,
+        "district": "Central District",
+        "land_type": "Commercial",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667510.75, 1521032.06],
+            [667651.87, 1520944.49],
+            [667801.94, 1521144.55],
+            [667671.71, 1521221.13],
+            [667617.44, 1521253.96],
+            [667510.75, 1521032.06]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "name": "Plot C4",
+        "area_sqm": 800,
+        "area_rai": 0.5,
+        "price_thb": 24000000,
+        "price_per_sqm": 30000,
+        "district": "Central District",
+        "land_type": "Mixed-use",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667651.87, 1520944.49],
+            [667835.52, 1520967.79],
+            [667997.83, 1520946.72],
+            [667942.35, 1521167.58],
+            [667801.94, 1521144.55],
+            [667651.87, 1520944.49]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "name": "Plot D1",
+        "area_sqm": 550,
+        "area_rai": 0.34375,
+        "price_thb": 19250000,
+        "price_per_sqm": 35000,
+        "district": "Central District",
+        "land_type": "Commercial",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667185.42, 1521184.81],
+            [667368.99, 1521219.18],
+            [667324.54, 1521406.92],
+            [667216.57, 1521384.11],
+            [667185.42, 1521184.81]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "name": "Plot D2",
+        "area_sqm": 300,
+        "area_rai": 0.1875,
+        "price_thb": 6000000,
+        "price_per_sqm": 20000,
+        "district": "Central District",
+        "land_type": "Residential",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667368.99, 1521219.18],
+            [667433.5, 1521274.9],
+            [667508.11, 1521441.29],
+            [667400.14, 1521418.47],
+            [667324.54, 1521406.92],
+            [667368.99, 1521219.18]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "name": "Plot D3",
+        "area_sqm": 700,
+        "area_rai": 0.4375,
+        "price_thb": 42000000,
+        "price_per_sqm": 60000,
+        "district": "Central District",
+        "land_type": "Commercial",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667433.5, 1521274.9],
+            [667617.44, 1521253.96],
+            [667671.71, 1521221.13],
+            [667724.55, 1521409.5],
+            [667562.17, 1521441.64],
+            [667508.11, 1521441.29],
+            [667433.5, 1521274.9]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "name": "Plot D4",
+        "area_sqm": 2000,
+        "area_rai": 1.25,
+        "price_thb": 50000000,
+        "price_per_sqm": 25000,
+        "district": "Central District",
+        "land_type": "Industrial",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667671.71, 1521221.13],
+            [667801.94, 1521144.55],
+            [667942.35, 1521167.58],
+            [668049.39, 1521334.18],
+            [667886.72, 1521410.55],
+            [667724.55, 1521409.5],
+            [667671.71, 1521221.13]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "name": "Plot E1",
+        "area_sqm": 450,
+        "area_rai": 0.28125,
+        "price_thb": 15750000,
+        "price_per_sqm": 35000,
+        "district": "Central District",
+        "land_type": "Mixed-use",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667216.57, 1521384.11],
+            [667324.54, 1521406.92],
+            [667290.96, 1521583.68],
+            [667183.07, 1521549.8],
+            [667216.57, 1521384.11]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "name": "Plot E2",
+        "area_sqm": 350,
+        "area_rai": 0.21875,
+        "price_thb": 17500000,
+        "price_per_sqm": 50000,
+        "district": "Central District",
+        "land_type": "Commercial",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667324.54, 1521406.92],
+            [667400.14, 1521418.47],
+            [667508.11, 1521441.29],
+            [667452.99, 1521606.84],
+            [667345.02, 1521584.02],
+            [667290.96, 1521583.68],
+            [667324.54, 1521406.92]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "name": "Plot E3",
+        "area_sqm": 900,
+        "area_rai": 0.5625,
+        "price_thb": 27000000,
+        "price_per_sqm": 30000,
+        "district": "Central District",
+        "land_type": "Mixed-use",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667508.11, 1521441.29],
+            [667562.17, 1521441.64],
+            [667724.55, 1521409.5],
+            [667777.32, 1521608.93],
+            [667615.01, 1521630.01],
+            [667452.99, 1521606.84],
+            [667508.11, 1521441.29]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 20,
+        "name": "Plot E4",
+        "area_sqm": 250,
+        "area_rai": 0.15625,
+        "price_thb": 12500000,
+        "price_per_sqm": 50000,
+        "district": "Central District",
+        "land_type": "Commercial",
+        "road_access": "None"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667724.55, 1521409.5],
+            [667886.72, 1521410.55],
+            [668049.39, 1521334.18],
+            [667993.9, 1521555.03],
+            [667831.37, 1521609.28],
+            [667777.32, 1521608.93],
+            [667724.55, 1521409.5]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    }
+  ]
+}
