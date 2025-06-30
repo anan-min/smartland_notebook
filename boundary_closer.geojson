@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "spatialReference": {
+    "wkid": 24047,
+    "latestWkid": 24047
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "name": "Development Boundary",
+        "area_type": "Project Boundary",
+        "total_area_sqm": 16300,
+        "total_area_rai": 10.1875,
+        "description": "Total development area covering all 20 parcels"
+      },
+      "geometry": {
+        "rings": [
+          [
+            [667135.77, 1521630.01],
+            [668195.23, 1521630.01],
+            [668195.23, 1520480.45],
+            [667135.77, 1520480.45],
+            [667135.77,  1521630.01]
+          ]
+        ],
+        "spatialReference": {"wkid": 24047}
+      }
+    }
+  ]
+}
